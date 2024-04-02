@@ -1,4 +1,4 @@
-![Sarah hart Landolt, software developer, artist](https://raw.githubusercontent.com/ganisat/ganisat/main/ga.png)
+(https://raw.githubusercontent.com/ganisat/ganisat/main/gu.png)
 
 
 ### Hi there, I'm Sarah! 👋
