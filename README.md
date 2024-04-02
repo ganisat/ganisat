@@ -1,4 +1,4 @@
-(https://raw.githubusercontent.com/ganisat/ganisat/main/gu.png)
+![github stats](https://raw.githubusercontent.com/ganisat/ganisat/main/gu.png)
 
 
 ### Hi there, I'm Sarah! 👋
