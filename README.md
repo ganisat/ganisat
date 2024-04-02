@@ -1,9 +1,9 @@
 ![github stats](https://raw.githubusercontent.com/ganisat/ganisat/main/gu.png)
 
 
-### Hi there, I'm Sarah! 👋
-- 💃🏻 I'm a software developer, an abstract artist, and a former French teacher who is often wearing red lipstick (hence my logo) and drinking La Croix.
-- 🌱 I’m currently learning Android while sharpening my skills in C#, JavaScript, and React. 
+### Hi there, I'm Gani! 👋
+- I'm a software developer,FrontEnd Developer, BackEnd Developer.
+- I’m currently learning All Language Programming. 
 - 💻 Check out these two Apps that I built from scratch and am most proud of:
      - [Paris-Passe-Partout](https://github.com/sarah-hart-landolt/Paris-Passe-Partout) 
      - [Feeling Heart](https://github.com/sarah-hart-landolt/Feeling-Heart-Chart)
