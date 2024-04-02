@@ -1,4 +1,4 @@
-![Sarah hart Landolt, software developer, artist](https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/ProfileHeader.png)
+![Sarah hart Landolt, software developer, artist](https://raw.githubusercontent.com/ganisat/ganisat/main/ga.png)
 
 
 ### Hi there, I'm Sarah! 👋
